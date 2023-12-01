@@ -1,7 +1,8 @@
 .detail-card {
   display: flex;
   flex-direction: column;
-  background-color: #fff2cc;
+  background-color: #ffffff;
+  border-radius: 20px;
   margin: 2em;
 }
 
@@ -31,6 +32,11 @@
   width: 100%;
   max-width: 1000px;
   padding: 1em;
+}
+
+.title-name {
+  color: #1b2c49;
+  font-size: 50px;
 }
 
 .item {
