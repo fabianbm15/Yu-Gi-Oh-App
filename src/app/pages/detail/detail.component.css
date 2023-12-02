@@ -17,6 +17,8 @@
   justify-content: center;
   align-items: center;
   padding: 2em;
+  width: 40%;
+  border: 1px solid red;
 }
 
 .top img {
@@ -29,22 +31,26 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 100%;
+  width: 60%;
   max-width: 1000px;
   padding: 1em;
+  border: 1px solid blue;
 }
 
 .title-name {
   color: #1b2c49;
   font-size: 50px;
+  text-align: center;
 }
 
 .item {
   max-width: 500px;
   text-align: center;
+  width: 100%;
 }
 
 .table {
   max-width: 400px;
   background-color: white;
+  width: 100%;
 }
