@@ -1,5 +1,6 @@
 <div class="detail-card" *ngIf="card$ | async as card">
   <div class="top">
+    <button class="home-button" (click)="onHomeButtonClick()">Home</button>
     <img [src]="card.card_images[0].image_url" alt="no image" />
   </div>
   <div class="bottom">
@@ -10,7 +11,7 @@
 
     <div class="item">
       <h3 class="title">Arquetipo</h3>
-      <p class="description">{{ card.archetype }}</p>
+      <p class="description description-card">{{ card.archetype }}</p>
     </div>
 
     <div class="item">

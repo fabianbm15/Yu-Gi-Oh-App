@@ -13,17 +13,39 @@
 }
 
 .top {
+  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 2em;
   width: 40%;
-  border: 1px solid red;
+}
+
+.top .home-button {
+  position: absolute;
+  top: 30px;
+  left: 40px;
+  width: 100%;
+  max-width: 120px;
+  height: 40px;
+  border: 0px;
+  cursor: pointer;
+  background-color: #23437a;
+  border-radius: 8px;
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  transition: ease-in-out 0.3s;
+}
+
+.top .home-button:hover {
+  transform: translateY(-1px);
 }
 
 .top img {
   max-width: 350px;
   width: 100%;
+  user-select: none;
 }
 
 .bottom {
@@ -34,11 +56,10 @@
   width: 60%;
   max-width: 1000px;
   padding: 1em;
-  border: 1px solid blue;
 }
 
 .title-name {
-  color: #1b2c49;
+  color: #23437a;
   font-size: 50px;
   text-align: center;
 }
@@ -47,6 +68,11 @@
   max-width: 500px;
   text-align: center;
   width: 100%;
+}
+
+.description-card {
+  text-align: center;
+  margin-top: 20px;
 }
 
 .table {
