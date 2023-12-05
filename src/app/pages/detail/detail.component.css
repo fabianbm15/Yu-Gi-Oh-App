@@ -35,7 +35,7 @@
   color: white;
   font-size: 20px;
   font-weight: 500;
-  transition: ease-in-out 0.3s;
+  transition: ease-in-out 0.25s;
 }
 
 .top .home-button:hover {
