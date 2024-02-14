@@ -1,27 +1,39 @@
-# Yu-Gi-Oh! | Angular-Project
+# Yu-Gi-Oh! App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
+## Descripción
 
-## Development server
+Yu-Gi-Oh! App es un proyecto que tiene como objetivo mostrar en detalle las cartas de la famosa serie Yu-Gi-Oh!, además, se podrá consultar el costo de estas cartas en tiendas de Internet.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Funcionalidades
 
-## Code scaffolding
+- Búsqueda de cartas: Los usuarios podrán buscar cartas por su nombre.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Detalles de la carta: El usuario podrá dar click sobre la carta y ver detalles como Arquetipo, Tipo, Subtipo y el precio en diferentes tiendas de Internet.
 
-## Build
+## Tecnologías utilizadas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Frontend
 
-## Running unit tests
+- TypeScript, JavaScript, HTML, CSS, Angular.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Instalación y ejecución
 
-## Running end-to-end tests
+A continuación, se detallan los pasos para la instalación y ejecución del proyecto:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. Clonar este repositorio: `git clone https://github.com/fabianbm15/Yu-Gi-Oh-App.git`
 
-## Further help
+2. Instalar las dependencias: `npm install`
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+4. Ejecutar el proyecto: `npm start`
+
+6. Acceder a la aplicación a través de `http://localhost:4200/` en el navegador.
+
+## Contribución
+
+Si estás interesado en contribuir al proyecto, eres bienvenido a enviar pull requests. También puedes contactar al equipo de desarrollo para discutir nuevas funcionalidades o reportar problemas a través de las siguientes vías de contacto.
+
+## Equipo de desarrollo
+
+- Carlos Fabian Melgarejo Agudelo: [GitHub](https://github.com/fabianbm15)
+
+
