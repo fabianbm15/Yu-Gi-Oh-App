@@ -1,5 +1,7 @@
 # Yu-Gi-Oh! App
 
+![image](https://github.com/fabianbm15/Yu-Gi-Oh-App/assets/115187369/456d3e60-87d3-4782-9f4a-5de0ccec7ca5)
+
 ## Descripción
 
 Yu-Gi-Oh! App es un proyecto que tiene como objetivo mostrar en detalle las cartas de la famosa serie Yu-Gi-Oh!, además, se podrá consultar el costo de estas cartas en tiendas de Internet.
