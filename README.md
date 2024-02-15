@@ -12,6 +12,9 @@ Yu-Gi-Oh! App es un proyecto que tiene como objetivo mostrar en detalle las cart
 
 - Detalles de la carta: El usuario podrá dar click sobre la carta y ver detalles como Arquetipo, Tipo, Subtipo y el precio en diferentes tiendas de Internet.
 
+## Demo
+Puedes ver una demostración en vivo de la aplicación aquí: [deploy](https://yu-gi-oh-app-c2024.web.app/)
+
 ## Tecnologías utilizadas
 
 ### Frontend
